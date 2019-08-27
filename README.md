@@ -1,4 +1,4 @@
-# Aplicação em NodeJS utilizando o Express, JWT e Sequelize
+# App em NodeJS utilizando o Express, JWT e Sequelize
 Essa aplicação foi criada a partir do desafio 2 do bootcamp da Rocketseat.
 
 ## Ferramentas
